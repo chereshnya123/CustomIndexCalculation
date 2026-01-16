@@ -1,0 +1,51 @@
+№,Code,Security name (rus),Security name (eng),Number of issued shares,Free-float factor,Restricting coefficient,Weight (31.03.2013),Data Source,Unnamed: 9
+1,GAZP,"ОАО Газпром, ао","GAZPROM, Common",23673512900,0.46,0.6855614,0.15,T0,Standard
+2,SBER,"ОАО Сбербанк России, ао","Sberbank, Common",21586948000,0.48,0.8205782,0.1398,T0,Standard
+3,SBERP,"ОАО Сбербанк России, ап","Sberbank, Pref",1000000000,1.0,0.8205782,0.0102,T0,Standard
+4,LKOH,"ОАО Лукойл, ао","ОАО ""LUKOIL"", Common",850563255,0.57,0.9289614,0.142,T0,Standard
+5,MGNT,"ОАО Магнит, ао","OJSC ""Magnit"", Common",94561355,0.54,0.9289614,0.0573,T0,
+6,SNGS,"ОАО Сургутнефтегаз, ао","Surgutneftegas, Common",35725994705,0.25,0.9289614,0.0338,T0,Standard
+7,SNGSP,"ОАО Сургутнефтегаз, ап","Surgutneftegas, Pref",7701998235,0.73,0.9289614,0.0169,T0,Standard
+8,URKA,"ОАО Уралкалий, ао","Uralkali, Common",2936015891,0.45,0.9998508,0.0507,T0,Standard
+9,ROSN,"ОАО НК Роснефть, ао","Rosneft, Common",10598177817,0.12,1.0,0.0452,T0,Standard
+10,NVTK,"ОАО НОВАТЭК, ао","JSC ""NOVATEK"", Common",3036306000,0.27,1.0,0.044,T0,Standard
+11,MTSS,"ОАО Мобильные ТелеСистемы, ао","МТS OJSC, Common",2066413562,0.49,1.0,0.0428,T0,Standard
+12,VTBR,"ОАО Банк ВТБ, ао","JSC VTB Bank, Common",12960541337338,0.39,1.0,0.0383,T0,Standard
+13,GMKN,"ОАО ГМК Норильский Никель, ао","""OJSC ""MMC ""NORILSK NICKEL"", Common",172156822,0.28,1.0,0.0371,T0,Standard
+14,RTKM,"ОАО Ростелеком, ао","Rostelecom, Common",2943258269,0.43,1.0,0.0213,T0,Standard
+15,RTKMP,"ОАО Ростелеком, ап","Rostelecom, Pref.",242831469,1.0,1.0,0.003,T0,
+16,TATN,"ОАО Татнефть, ао","TATNEFT, Common",2178690700,0.32,1.0,0.0212,T0,Standard
+17,TATNP,"ОАО Татнефть им.В.Д.Шашина, ап","TATNEFT, Pref.",147508500,1.0,1.0,0.0023,T0,
+18,TRNFP,"ОАО АК Транснефть, ап","Transneft, Pref",1554875,1.0,1.0,0.0174,T0,Standard
+19,AFKS,"ОАО АФК Система, ао","AFK SISTEMA, Common",9650000000,0.36,1.0,0.0155,T0,
+20,BANE,"ОАО Башнефть, ао","OAO ANK ""Bashneft'"", Common",188710587,0.12,1.0,0.0075,T0,
+21,BANEP,"ОАО Башнефть, ап","OAO ANK ""Bashneft'"", Pref",38673878,1.0,1.0,0.0068,T0,
+22,HYDR,"ОАО РусГидро, ао","JSC ""RusHydro"", Common",317637520094,0.34,1.0,0.0087,T0,Standard
+23,CHMF,"ОАО Северсталь, ао","Severstal, Common",837718660,0.21,1.0,0.0075,T0,Standard
+24,NLMK,"ОАО Новолипецкий металлургический комбинат, ао","NLMK, Common",5993227240,0.14,1.0,0.0063,T0,
+25,PHST,"ОАО Фармстандарт, ао","JSC ""Pharmstandard"", Common",37792603,0.41,1.0,0.0054,T0,
+26,FEES,"ОАО ФСК ЕЭС, ао","""FGC UES"", JSC, Common",1260386658740,0.21,1.0,0.0054,T0,Standard
+27,MOEX,"ОАО Московская биржа, ао","Moscow Exchange, Common",2378489153,0.25,1.0,0.0053,T0,
+28,EONR,"ОАО Э.ОН Россия, ао","OAO ""E.ON Rossiya"", Common",63048706145,0.18,1.0,0.0048,T0,
+29,IRAO,"ОАО ИНТЕР РАО ЕЭС, ао","JSC ""INTER RAO UES"", Common",10440000997683,0.18,1.0,0.0041,T0,
+30,RUALR,"Юнайтед Компани РУСАЛ Плс, рдр","Rusal, RDR",2000000000,0.08,1.0,0.0039,T0,Standard
+31,MTLR,"ОАО Мечел, ао","Mechel ОАО, Common",416270745,0.35,1.0,0.0027,T0,
+32,MTLRP,"ОАО Мечел, ап","Mechel ОАО, Pref.",138756915,0.9,1.0,0.0012,T0,
+33,ALRS,"ОАО АК АЛРОСА, ао","AC ""ALROSA"", Common",7364965630,0.09,1.0,0.0035,T0,
+34,TRMK,"ОАО Трубная металлургическая компания, ао","Trubnaya Metallurgicheskaya Kompaniya, Common",937586094,0.28,1.0,0.0033,T0,
+35,VSMO,"ОАО Корпорация ВСМПО-АВИСМА, ао","VSMPO-AVISMA Corporation, Common",11529538,0.29,1.0,0.0032,T0,
+36,DIXY,"ОАО ДИКСИ Групп, ао","DIXY Group, Common",124750000,0.33,1.0,0.0032,T0,
+37,AFLT,"ОАО Аэрофлот, ао","JSC ""AEROFLOT"", Common",1110616299,0.32,1.0,0.0031,T0,
+38,LSRG,"ОАО Группа ЛСР, ао","OJSC LSR Group, Common",103030215,0.33,1.0,0.003,T0,
+39,MRKH,"ОАО Россети, ао","JSC ""Russian Grids""",47871694416,0.3,1.0,0.0029,T0,
+40,NMTP,"ОАО Новороссийский морской торговый порт, ао","PJSC ""NCSP"", Common",19259815400,0.3,1.0,0.0027,T0,
+41,PHOR,"ОАО ФосАгро, ао","PhosAgro, Common",124477080,0.1,1.0,0.0026,T0,
+42,MSTT,"ОАО МОСТОТРЕСТ, ао","OAO ""MOSTOTREST"", Common",282215500,0.3,1.0,0.0021,T0,
+43,MSRS,"ОАО МОЭСК, ао","MOESK, Common",48707091574,0.18,1.0,0.002,T0,
+44,MVID,"ОАО Компания М.видео, ао","Open Joint-Stock Company ""Company ""M.video"", Common",179768227,0.26,1.0,0.0019,T0,
+45,MAGN,"ОАО ММК, ао","OJSC ""MMK"", Common",11174330000,0.14,1.0,0.0019,T0,Standard
+46,PIKK,"ОАО Группа Компаний ПИК, ао","""PIK Group"", Common",493260384,0.33,1.0,0.0017,T0,
+47,SVAV,"ОАО СОЛЛЕРС, ао","Sollers, Common",34270159,0.34,1.0,0.0014,T0,
+48,MSNG,"ОАО Мосэнерго, ао","AO MOSENERGO, Common",39749359700,0.15,1.0,0.0012,T0,
+49,AKRN,"ОАО Акрон, ао","Acron, Common",40534000,0.13,1.0,0.0011,T0,
+50,RASP,"ОАО Распадская, ао","Raspadskaya OJSC, Common",703191442,0.18,1.0,0.0008,T0,

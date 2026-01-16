@@ -1,0 +1,51 @@
+№,Code,Security name (rus),Security name (eng),Number of issued shares,Free-float factor,Restricting coefficient,Weight (30.05.2014)
+1,GAZP,"ОАО ""Газпром"", ао","JSC ""GAZPROM"", Ordinary shares",23673512900,0.46,0.6275773,0.15
+2,LKOH,"ОАО ""ЛУКОЙЛ"", ао","OAO ""LUKOIL"", Ordinary shares",850563255,0.57,0.9499498,0.1404
+3,SBER,"ОАО ""Сбербанк России"", ао","Sberbank, Ordinary shares",21586948000,0.48,0.9499498,0.1288
+4,SBERP,"ОАО ""Сбербанк России"", ап","Sberbank, Preferred shares",1000000000,1.0,0.9499498,0.0101
+5,MGNT,"ОАО ""Магнит"", ао","OJSC ""Magnit"", Ordinary shares",94561355,0.54,0.9499498,0.0662
+6,SNGS,"ОАО ""Сургутнефтегаз"", ао","""Surgutneftegas"" OJSC, Ordinary shares",35725994705,0.25,0.9499498,0.033
+7,SNGSP,"ОАО ""Сургутнефтегаз"", ап","""Surgutneftegas"" OJSC, Preferred shares",7701998235,0.73,0.9499498,0.0215
+8,GMKN,"ОАО ""ГМК ""Норильский никель"", ао","""OJSC ""MMC ""NORILSK NICKEL"", Ordinary shares",158245476,0.3,1.0,0.0489
+9,NVTK,"ОАО ""НОВАТЭК"", ао","JSC ""NOVATEK"", Ordinary shares",3036306000,0.27,1.0,0.047
+10,ROSN,"ОАО ""НК ""Роснефть"", ао","Rosneft, Ordinary shares",10598177817,0.12,1.0,0.0445
+11,MTSS,"ОАО ""МТС"", ао","MTS OJSC, Ordinary shares",2066413562,0.49,1.0,0.0443
+12,VTBR,"ОАО Банк ВТБ, ао","JSC VTB Bank, Ordinary shares",12960541337338,0.39,1.0,0.0375
+13,TATN,"ОАО ""Татнефть"" им. В.Д. Шашина, ао","JSC ""TATNEFT"", Ordinary shares",2178690700,0.32,1.0,0.0218
+14,TATNP,"ОАО ""Татнефть"" им. В.Д. Шашина, ап","JSC ""TATNEFT"", Preferred shares",147508500,1.0,1.0,0.0029
+15,AFKS,"ОАО АФК ""Система"", ао","Sistema JSFC, Ordinary shares",9650000000,0.36,1.0,0.0233
+16,TRNFP,"ОАО ""АК ""Транснефть"", ап","JSC ""Transneft"", Preferred shares",1554875,1.0,1.0,0.0192
+17,URKA,"ОАО ""Уралкалий"", ао","OJSC Uralkali, Ordinary shares",2936015891,0.22,1.0,0.0155
+18,MFON,"ОАО ""МегаФон"", ао","OJSC ""MegaFon"", Ordinary shares",620000000,0.15,1.0,0.0146
+19,BANE,"ОАО АНК ""Башнефть"", ао","JSOC Bashneft, Ordinary shares",150570662,0.12,1.0,0.0063
+20,BANEP,"ОАО АНК ""Башнефть"", ап","JSOC Bashneft, Preferred shares",29788012,1.0,1.0,0.0078
+21,HYDR,"ОАО ""РусГидро"", ао","JSC ""RusHydro"", Ordinary shares",317637520094,0.34,1.0,0.0115
+22,ALRS,"АК ""АЛРОСА"" (ОАО), ао","OJSC ""ALROSA"", Ordinary shares",7364965630,0.23,1.0,0.0108
+23,RTKM,"ОАО ""Ростелеком"", ао","OJSC ""Rostelecom"", Ordinary shares",2669204301,0.28,1.0,0.0096
+24,RTKMP,"ОАО ""Ростелеком"", ап","OJSC ""Rostelecom"", Preferred shares",242831469,0.6,1.0,0.0012
+25,POLY,Полиметалл Интернэшнл плс,Polymetal International plc,389472865,0.5,1.0,0.0093
+26,MOEX,"ОАО Московская Биржа, ао","Moscow Exchange, Ordinary shares",2278636493,0.37,1.0,0.0086
+27,CHMF,"ОАО ""Северсталь"", ао","OAO Severstal, Ordinary shares",837718660,0.21,1.0,0.008
+28,NLMK,"ОАО ""НЛМК"", ао","NLMK, Ordinary shares",5993227240,0.14,1.0,0.0061
+29,EONR,"ОАО ""Э.ОН Россия"", ао","JSC ""E.ON Russia"", Ordinary shares",63048706145,0.18,1.0,0.0048
+30,PHOR,"ОАО ""ФосАгро"", ао","OJSC ""PhosAgro"", Ordinary shares",129500000,0.19,1.0,0.0046
+31,RUALR,"Юнайтед Компани РУСАЛ Плс, рдр","Rusal, RDR",2000000000,0.08,1.0,0.0035
+32,TRMK,"ОАО ""ТМК"", ао","TMK, Ordinary shares",937586094,0.28,1.0,0.0032
+33,LSRG,"ОАО ""Группа ЛСР"", ао","OJSC LSR Group, Ordinary shares",103030215,0.33,1.0,0.0031
+34,PIKK,"ОАО ""Группа Компаний ПИК"", ао","""PIK Group"", Ordinary shares",660497344,0.32,1.0,0.0031
+35,AFLT,"ОАО ""Аэрофлот"", ао","JSC ""Aeroflot"", Ordinary shares",1110616299,0.32,1.0,0.003
+36,MVID,"ОАО ""Компания ""М.видео"", ао","OJSC ""Company ""M.video, Ordinary shares",179768227,0.42,1.0,0.003
+37,IRAO,"ОАО ""Интер РАО"", ао","JSC ""Inter RAO"", Ordinary shares",10440000997683,0.18,1.0,0.0028
+38,DIXY,"ОАО ""ДИКСИ Групп"", ао","DIXY Group, Ordinary shares",124750000,0.33,1.0,0.0024
+39,FEES,"ОАО ""ФСК ЕЭС"", ао","""FGC UES"", JSC, Ordinary shares",1274665323063,0.21,1.0,0.0024
+40,GCHE,"ОАО ""Группа Черкизово"", ао","OJSC ""Cherkizovo Group"", Ordinary shares",43963773,0.51,1.0,0.002
+41,RSTI,"ОАО ""Россети"", ао","JSC ""Russian Grids"", Ordinary shares",161078853310,0.14,1.0,0.0018
+42,MAGN,"ОАО ""ММК"", ао","OJSC MMK, Ordinary shares",11174330000,0.14,1.0,0.0016
+43,MSTT,"ОАО ""МОСТОТРЕСТ"", ао","OJSC ""MOSTOTREST"", Ordinary shares",282215500,0.34,1.0,0.0015
+44,PHST,"ОАО ""Фармстандарт"", ао","JSC ""Pharmstandard"", Ordinary shares",37792603,0.23,1.0,0.0015
+45,VSMO,"ОАО ""Корпорация ВСМПО-АВИСМА"", ао","VSMPO-AVISMA Corporation, Ordinary shares",11529538,0.1,1.0,0.0014
+46,MTLR,"ОАО ""Мечел"", ао","Mechel ОАО, Ordinary shares",416270745,0.35,1.0,0.0011
+47,BSPB,"ОАО ""Банк ""Санкт-Петербург"", ао","""Bank ""Saint-Petersburg"" OJSC, Ordinary shares",439554000,0.45,1.0,0.0011
+48,NMTP,"ОАО ""НМТП"", ао","PJSC ""NCSP"", Ordinary shares",19259815400,0.15,1.0,0.0011
+49,SVAV,"ОАО ""СОЛЛЕРС"", ао","SOLLERS OJSC, Ordinary shares",34270159,0.34,1.0,0.001
+50,MSRS,"ОАО ""МОЭСК"", ао","JSC ""MOESK"", Ordinary shares",48707091574,0.1,1.0,0.0009

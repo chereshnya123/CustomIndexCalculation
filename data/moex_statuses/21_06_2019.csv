@@ -1,0 +1,41 @@
+№,Code,Security name (rus),Security name (eng),Number of issued shares,Free-float factor,Restricting coefficient,Weight (31.05.2019)
+1,SBER,"ПАО Сбербанк, ао","Sberbank, Ordinary shares",21586948000,0.48,0.5656921,0.1382443858796928
+2,SBERP,"ПАО Сбербанк, ап","Sberbank, Preferred shares",1000000000,1.0,0.5656921,0.0117556039827978
+3,GAZP,"ПАО ""Газпром"", ао","PJSC ""GAZPROM"", Ordinary shares",23673512900,0.46,0.6332839,0.1500000040929299
+4,LKOH,"ПАО ""ЛУКОЙЛ"", ао","PJSC ""LUKOIL"", Ordinary shares",750000000,0.55,0.6435466,0.1414239007478363
+5,NVTK,"ПАО ""НОВАТЭК"", ао","JSC ""NOVATEK"", Ordinary shares",3036306000,0.21,0.6435466,0.054895475492245
+6,GMKN,"ПАО ""ГМК ""Норильский никель"", ао","PJSC ""MMC ""NORILSK NICKEL"", Ordinary shares",158245476,0.38,0.6435466,0.0536806261148479
+7,TATN,"ПАО ""Татнефть"" им. В.Д. Шашина, ао","PJSC ""TATNEFT"", Ordinary shares",2178690700,0.32,0.8730733,0.0460701836914769
+8,TATNP,"ПАО ""Татнефть"" им. В.Д. Шашина, ап","PJSC ""TATNEFT"", Preferred shares",147508500,1.0,0.8730733,0.0076104412079614
+9,ROSN,"ПАО ""НК ""Роснефть"", ао","Rosneft, Ordinary shares",10598177817,0.11,1.0,0.0510438774946108
+10,YDEX,"Яндекс Н.В., акции иностранного эмитента","Yandex N.V., Shares of a foreign issuer",292567655,0.96,0.5,0.0331805663644097
+11,MGNT,"ПАО ""Магнит"", ао","PJSC ""Magnit"", Ordinary shares",101911355,0.71,1.0,0.0273533286761239
+12,MTSS,"ПАО ""МТС"", ао","MTS PJSC, Ordinary shares",1998381575,0.45,1.0,0.0232607302610988
+13,SNGS,"ПАО ""Сургутнефтегаз"", ао","""Surgutneftegas"" PJSC, Ordinary shares",35725994705,0.25,1.0,0.022524370462728
+14,SNGSP,"ПАО ""Сургутнефтегаз"", ап","""Surgutneftegas"" PJSC, Preferred shares",7701998235,0.73,1.0,0.0230058187511999
+15,ALRS,"АК ""АЛРОСА"" (ПАО), ао","PJSC ""ALROSA"", Ordinary shares",7364965630,0.34,1.0,0.0223204955535131
+16,FIVE,"Икс 5 Ритейл Груп Н.В.и, ДР иностранного эмитента на акции (эмитент ДР — The Bank of New York Mellon Corporation)","X5 Retail Group N.V., DR (Issuer The Bank of New York Mellon Corporation)",271572872,0.41,1.0,0.0216455419870277
+17,CHMF,"ПАО ""Северсталь"", ао","PAO Severstal, Ordinary shares",837718660,0.2,1.0,0.0175585020910572
+18,NLMK,"ПАО ""НЛМК"", ао","NLMK, Ordinary shares",5993227240,0.16,1.0,0.0167089164610811
+19,IRAO,"ПАО ""Интер РАО"", ао","PJSC ""Inter RAO"", Ordinary shares",104400000000,0.33,1.0,0.0139837509634532
+20,VTBR,"Банк ВТБ (ПАО), ао","VTB Bank (PJSC), Ordinary shares",12960541337338,0.27,1.0,0.012988051692635
+21,POLY,"Полиметалл Интернэшнл плс, акции иностранного эмитента","Polymetal International plc, Shares of a foreign issuer",470155459,0.38,1.0,0.0126550857905063
+22,MOEX,"ПАО Московская Биржа, ао","Moscow Exchange, Ordinary shares",2276401458,0.58,1.0,0.0113148403322307
+23,PLZL,"ПАО ""Полюс"", ао","PJSC Polyus, Ordinary shares",133561119,0.16,1.0,0.0111728623539871
+24,TRNFP,"ПАО ""Транснефть"", ап","Transneft, Preferred shares",1554875,0.32,1.0,0.0081179487123986
+25,PHOR,"ПАО ""ФосАгро"", ао","PJSC ""PhosAgro"", Ordinary shares",129500000,0.25,1.0,0.0080828169092476
+26,MAGN,"ПАО ""ММК"", ао","PJSC MMK, Ordinary shares",11174330000,0.16,1.0,0.0080731578383452
+27,RTKM,"ПАО ""Ростелеком"", ао","PJSC ""Rostelecom"", Ordinary shares",2574914954,0.32,1.0,0.0064147400489868
+28,RUAL,"Юнайтед Компани РУСАЛ Плс, акции иностранного эмитента","United Company RUSAL Plc, Shares of a foreign issuer",15193014862,0.16,1.0,0.005825647003487
+29,PIKK,"ПАО ""Группа Компаний ПИК"", ао","PIK GROUP, Ordinary shares",660497344,0.18,1.0,0.0044288918624143
+30,HYDR,"ПАО ""РусГидро"", ао","PJSC ""RusHydro"", Ordinary shares",426288813551,0.19,1.0,0.0044218370982785
+31,AFLT,"ПАО ""Аэрофлот"", ао","PJSC ""Aeroflot"", Ordinary shares",1110616299,0.41,1.0,0.0043189941136146
+32,FEES,"ПАО ""ФСК ЕЭС"", ао","""FGC UES"", PJSC, Ordinary shares",1274665323063,0.18,1.0,0.0040062919140979
+33,RNFT,"ПАО НК ""РуссНефть"", ао","PJSC ""RussNeft"", Ordinary shares",294120000,0.2,1.0,0.0033904807500657
+34,LNTA,"Лента Лтд., ДР иностранного эмитента на акции (эмитент ДР — Deutsche Bank Luxembourg S.A.)","Lenta Ltd., DR (Issuer Deutsche Bank Luxembourg S.A)",487929660,0.28,1.0,0.0032340634628364
+35,CBOM,"ПАО ""МОСКОВСКИЙ КРЕДИТНЫЙ БАНК"", ао","CREDIT BANK OF MOSCOW, Ordinary shares",27079709866,0.18,1.0,0.0029376134376275
+36,AFKS,"ПАО АФК ""Система"", ао","Sistema PJSFC, Ordinary shares",9650000000,0.33,1.0,0.002904555404532
+37,UPRO,"ПАО ""Юнипро"", ао","PJSC ""Unipro"", Ordinary shares",63048706145,0.16,1.0,0.002540983021287
+38,MVID,"ПАО ""М.видео"", ао","PJSC ""M.video"", Ordinary shares",179768227,0.32,1.0,0.0024687104931209
+39,SFIN,"ПАО ""САФМАР Финансовые инвестиции"", ао","PJSC ""SFI"", Ordinary shares",111637791,0.4,1.0,0.0022839254560687
+40,DSKY,"ПАО ""Детский мир"", ао","PJSC ""Detsky mir"", Ordinary shares",739000000,0.34,1.0,0.0021519820281389

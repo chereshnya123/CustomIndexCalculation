@@ -1,0 +1,51 @@
+№,Code,Security name (rus),Security name (eng),Number of issued shares,Free-float factor,Restricting coefficient,Weight (30.11.2012),Data Source,Unnamed: 9
+1,AFKS,"ОАО АФК Система, ао","AFK SISTEMA, Common",9650000000,0.12,1.0,0.0062,T0,
+2,AFLT,"ОАО Аэрофлот, ао","JSC ""AEROFLOT"", Common",1110616299,0.32,1.0,0.0033,T0,
+3,AKRN,"ОАО Акрон, ао","Acron, Common",40534000,0.13,1.0,0.0015,T0,
+4,ALRS,"ОАО АК АЛРОСА, ао","AC ""ALROSA"", Common",7364965630,0.09,1.0,0.0033,T0,
+5,BANE,"ОАО Башнефть, ао","OAO ANK ""Bashneft'"", Common",170169754,0.14,1.0,0.009,T0,
+6,BANEP,"ОАО Башнефть, ап","OAO ANK ""Bashneft'"", Pref",34622686,1.0,1.0,0.01,T0,
+7,CHMF,"ОАО Северсталь, ао","Severstal, Common",837718660,0.21,1.0,0.0136,T0,Standard
+8,DIXY,"ОАО ДИКСИ Групп, ао","DIXY Group, Common",124750000,0.33,1.0,0.0031,T0,
+9,EONR,"ОАО Э.ОН Россия, ао","OAO ""E.ON Rossiya"", Common",63048706145,0.18,1.0,0.0058,T0,
+10,FEES,"ОАО ФСК ЕЭС, ао","""FGC UES"", JSC, Common",1260386658740,0.21,1.0,0.0121,T0,Standard
+11,GAZP,"ОАО Газпром, ао","GAZPROM, Common",23673512900,0.46,0.4569502,0.15,T0,Standard
+12,GMKN,"ОАО ГМК Норильский никель, ао","""OJSC ""MMC ""NORILSK NICKEL"", Common",190627747,0.24,1.0,0.048,T0,Standard
+13,HYDR,"ОАО РусГидро, ао","JSC ""RusHydro"", Common",290302702379,0.3,1.0,0.0141,T0,Standard
+14,IRAO,"ОАО ИНТЕР РАО ЕЭС, ао","JSC ""INTER RAO UES"", Common",9716000000000,0.16,1.0,0.0086,T0,Standard
+15,LKOH,"ОАО ЛУКОЙЛ, ао","ОАО ""LUKOIL"", Common",850563255,0.57,0.6846171,0.1397,T0,Standard
+16,LSRG,"ОАО Группа ЛСР, ао","OJSC LSR Group, Common",103030215,0.15,1.0,0.0019,T0,
+17,MAGN,"ОАО ММК, ао","OJSC ""MMK"", Common",11174330000,0.05,1.0,0.0013,T0,Standard
+18,MGNT,"ОАО Магнит, ао","OJSC ""Magnit"", Common",94561355,0.24,1.0,0.0222,T0,
+19,MRKH,"ОАО Холдинг МРСК, ао","JSC ""IDGC Holding"", Common",47871694416,0.3,1.0,0.0063,T0,
+20,MSNG,"ОАО Мосэнерго, ао","AO MOSENERGO, Common",39749359700,0.15,1.0,0.0017,T0,
+21,MSRS,"ОАО МОЭСК, ао","MOESK, Common",48707091574,0.18,1.0,0.0026,T0,
+22,MSTT,"ОАО МОСТОТРЕСТ, ао","OAO ""MOSTOTREST"", Common",282215500,0.3,1.0,0.0032,T0,
+23,MTLR,"ОАО Мечел, ао","Mechel ОАО, Common",416270745,0.18,1.0,0.0031,T0,
+24,MTLRP,"ОАО Мечел, ап","Mechel ОАО, Pref.",138756915,0.9,1.0,0.0034,T0,
+25,MTSS,"ОАО МТС, ао","МТS OJSC, Common",2066413562,0.12,1.0,0.0126,T0,Standard
+26,MVID,"ОАО Компания М.видео, ао","Open Joint-Stock Company ""Company ""M.video"", Common",179768227,0.26,1.0,0.0022,T0,
+27,NLMK,"ОАО НЛМК, ао","NLMK, Common",5993227240,0.14,1.0,0.0114,T0,Standard
+28,NMTP,"ОАО НМТП, ао","PJSC ""NCSP"", Common",19259815400,0.3,1.0,0.0035,T0,
+29,NVTK,"ОАО НОВАТЭК, ао","JSC ""NOVATEK"", Common",3036306000,0.18,1.0,0.0393,T0,Standard
+30,OGKB,"ОАО ОГК-2, ао","JSC ""OGK-2"", Common",59327926960,0.35,1.0,0.0016,T0,
+31,PHOR,"ОАО ФосАгро, ао","PhosAgro, Common",124477080,0.1,1.0,0.0035,T0,
+32,PHST,"ОАО Фармстандарт, ао","JSC ""Pharmstandard"", Common",37792603,0.18,1.0,0.0023,T0,
+33,PIKK,"ОАО Группа Компаний ПИК, ао","""PIK Group"", Common",493260384,0.31,1.0,0.0022,T0,
+34,RASP,"ОАО Распадская, ао","Raspadskaya OJSC, Common",780799808,0.18,1.0,0.0019,T0,
+35,ROSN,"ОАО НК Роснефть, ао","Rosneft, Common",10598177817,0.15,0.6846171,0.0584,T0,Standard
+36,RTKM,"ОАО Ростелеком, ао","Rostelecom, Common",2943258269,0.43,1.0,0.0303,T0,Standard
+37,RTKMP,"ОАО Ростелеком, ап","Rostelecom, Pref.",242831469,1.0,1.0,0.0045,T0,
+38,RUALR,"Юнайтед Компани РУСАЛ Плс, РДР на акции, 1:10","Rusal, RDR",2000000000,0.08,1.0,0.0065,T0,Standard
+39,SBER,"ОАО Сбербанк России, ао","Sberbank, Common",21586948000,0.48,0.6845661,0.1401,T0,Standard
+40,SBERP,"ОАО Сбербанк России, ап","Sberbank, Pref",1000000000,1.0,0.6845661,0.0099,T0,Standard
+41,SNGS,"ОАО Сургутнефтегаз, ао","Surgutneftegas, Common",35725994705,0.25,0.6846171,0.0349,T0,Standard
+42,SNGSP,"ОАО Сургутнефтегаз, ап","Surgutneftegas, Pref",7701998235,0.73,0.6846171,0.017,T0,Standard
+43,SVAV,"ОАО СОЛЛЕРС, ао","Sollers, Common",34270159,0.34,1.0,0.0017,T0,
+44,TATN,"ОАО Татнефть им.В.Д.Шашина, ао","TATNEFT, Common",2178690700,0.32,1.0,0.0301,T0,Standard
+45,TATNP,"ОАО Татнефть им.В.Д.Шашина, ап","TATNEFT, Pref.",147508500,1.0,1.0,0.0034,T0,
+46,TRNFP,"ОАО АК Транснефть, ап","Transneft, Pref",1554875,1.0,1.0,0.0221,T0,Standard
+47,URKA,"ОАО Уралкалий, ао","Uralkali, Common",2936015891,0.45,0.7818731,0.0519,T0,Standard
+48,VSMO,"ОАО Корпорация ВСМПО-АВИСМА, ао","VSMPO-AVISMA Corporation, Common",11529538,0.29,1.0,0.0039,T0,
+49,VTBR,"ОАО Банк ВТБ, ао","JSC VTB Bank, Common",10460541337338,0.25,1.0,0.0297,T0,Standard
+50,VZRZ,"ОАО Банк Возрождение, ао","V.Bank, Common",23748694,0.38,1.0,0.0011,T0,

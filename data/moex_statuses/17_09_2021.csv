@@ -1,0 +1,44 @@
+№,Code,Security name (rus),Security name (eng),Number of issued shares,Free-float factor,Restricting coefficient,Weight (31.08.2021)
+1,GAZP,"ПАО ""Газпром"", ао","PJSC ""GAZPROM"", Ordinary shares",23673512900,0.5,0.8164295,0.1499999932395438
+2,SBER,"ПАО Сбербанк, ао","Sberbank, Ordinary shares",21586948000,0.48,0.7952609,0.1374931852996244
+3,SBERP,"ПАО Сбербанк, ап","Sberbank, Preferred shares",1000000000,1.0,0.7952609,0.0125068088122814
+4,LKOH,"ПАО ""ЛУКОЙЛ"", ао","PJSC ""LUKOIL"", Ordinary shares",692865762,0.55,0.8828576,0.1068700524005877
+5,YDEX,"Яндекс Н.В., акции иностранного эмитента","Yandex N.V., Shares of a foreign issuer",322740479,0.97,0.8828576,0.0783459099277317
+6,GMKN,"ПАО ""ГМК ""Норильский никель"", ао","PJSC ""MMC ""NORILSK NICKEL"", Ordinary shares",158245476,0.38,0.8828576,0.0647840437983517
+7,NVTK,"ПАО ""НОВАТЭК"", ао","JSC ""NOVATEK"", Ordinary shares",3036306000,0.21,1.0,0.0560969437943402
+8,T,"ТиСиЭс Груп Холдинг ПиЭлСи, ДР иностранного эмитента на акции (эмитент депозитарных расписок - JPMorgan Chase Bank)","TCS Group Holding PLC, DR (the issuer of depository receipts - JPMorgan Chase Bank)",199305492,0.58,1.0,0.0381185000661924
+9,ROSN,"ПАО ""НК ""Роснефть"", ао","Rosneft, Ordinary shares",10598177817,0.11,1.0,0.0315761367818111
+10,POLY,"Полиметалл Интернэшнл плс, акции иностранного эмитента","Polymetal International plc, Shares of a foreign issuer",473576257,0.71,1.0,0.0249555865751152
+11,PLZL,"ПАО ""Полюс"", ао","PJSC Polyus, Ordinary shares",136069400,0.21,1.0,0.0191422664391128
+12,ALRS,"АК ""АЛРОСА"" (ПАО), ао","PJSC ""ALROSA"", Ordinary shares",7364965630,0.34,1.0,0.0185217642584932
+13,MGNT,"ПАО ""Магнит"", ао","PJSC ""Magnit"", Ordinary shares",101911355,0.63,1.0,0.0180739483562219
+14,TATN,"ПАО ""Татнефть"" им. В.Д. Шашина, ао","PJSC ""TATNEFT"", Ordinary shares",2178690700,0.32,1.0,0.0171362001506155
+15,CHMF,"ПАО ""Северсталь"", ао","PAO Severstal, Ordinary shares",837718660,0.22,1.0,0.0160683345157545
+16,NLMK,"ПАО ""НЛМК"", ао","NLMK, Ordinary shares",5993227240,0.21,1.0,0.0157618050256788
+17,SNGS,"ПАО ""Сургутнефтегаз"", ао","""Surgutneftegas"" PJSC, Ordinary shares",35725994705,0.25,1.0,0.0153217692249383
+18,FIVE,"Икс 5 Ритейл Груп Н.В.и, ДР иностранного эмитента на акции (эмитент ДР — The Bank of New York Mellon Corporation)","X5 Retail Group N.V., DR (Issuer The Bank of New York Mellon Corporation)",271572872,0.41,1.0,0.0137799058760261
+19,MTSS,"ПАО ""МТС"", ао","MTS PJSC, Ordinary shares",1998381575,0.42,1.0,0.0140087308742332
+20,MOEX,"ПАО Московская Биржа, ао","Moscow Exchange, Ordinary shares",2276401458,0.63,1.0,0.0133353175709879
+21,VTBR,"Банк ВТБ (ПАО), ао","VTB Bank (PJSC), Ordinary shares",12960541337338,0.36,1.0,0.0125416237514249
+22,SNGSP,"ПАО ""Сургутнефтегаз"", ап","""Surgutneftegas"" PJSC, Preferred shares",7701998235,0.73,1.0,0.0110314292515044
+23,OZON,"Озон Холдингс ПиЭлСи, ДР иностранного эмитента на акции (эмитент ДР - The Bank of New York Mellon)","Ozon Holdings PLC, DR (issuer - The Bank of New York Mellon)",203729958,0.27,1.0,0.0106879058779525
+24,MAIL,"Мэйл.ру Груп Лимитед, ДР иностранного эмитента","Mail.ru Group Limited, depository receipts of foreign issuer",225571004,0.53,1.0,0.0089799118603878
+25,FIXP,"Фикс Прайс Груп Лтд, ДР иностранного эмитента на акции","Fix Price Group Ltd, DR",850000000,0.28,1.0,0.0082344864359741
+26,PIKK,"ПАО ""Группа Компаний ПИК"", ао","PIK GROUP, Ordinary shares",660497344,0.18,1.0,0.0081176731441262
+27,IRAO,"ПАО ""Интер РАО"", ао","PJSC ""Inter RAO"", Ordinary shares",104400000000,0.33,1.0,0.0080651839216162
+28,PHOR,"ПАО ""ФосАгро"", ао","PJSC ""PhosAgro"", Ordinary shares",129500000,0.25,1.0,0.007990386896819
+29,MAGN,"ПАО ""ММК"", ао","PJSC MMK, Ordinary shares",11174330000,0.19,1.0,0.007970434557002
+30,RUAL,"Юнайтед Компани РУСАЛ Плс, акции иностранного эмитента","United Company RUSAL Plc, Shares of a foreign issuer",15193014862,0.17,1.0,0.0069301340912383
+31,HHRU,"ХэдХантер Групп ПИЭЛСИ, ДР иностранного эмитента на акции (эмитент ДР - ДжиПиМорган Чейз Банк, Эн.Эй)","HeadHunter Group PLC, DR (issuer - JPMorgan Chase Bank, N.A.)",50635720,0.59,1.0,0.0058683976803631
+32,AFKS,"ПАО АФК ""Система"", ао","Sistema PJSFC, Ordinary shares",9650000000,0.33,1.0,0.0049063805713624
+33,TRNFP,"ПАО ""Транснефть"", ап","Transneft, Preferred shares",1554875,0.37,1.0,0.0046113647841157
+34,HYDR,"ПАО ""РусГидро"", ао","PJSC ""RusHydro"", Ordinary shares",439288905849,0.25,1.0,0.0045880594256914
+35,RTKM,"ПАО ""Ростелеком"", ао","PJSC ""Rostelecom"", Ordinary shares",3282997929,0.29,1.0,0.0045614169480884
+36,DSKY,"ПАО ""Детский мир"", ао","PJSC ""Detsky mir"", Ordinary shares",739000000,0.69,1.0,0.0035884574094167
+37,AFLT,"ПАО ""Аэрофлот"", ао","PJSC ""Aeroflot"", Ordinary shares",2444535448,0.41,1.0,0.0035225994409267
+38,TATNP,"ПАО ""Татнефть"" им. В.Д. Шашина, ап","PJSC ""TATNEFT"", Preferred shares",147508500,1.0,1.0,0.0034228541486511
+39,GLTR,"Глобалтранс Инвестмент ПЛС, ДР иностранного эмитента на акции (эмитент ДР - Citibank N.A. (NYC))","Globaltrans Investment PLC, DR (issuer - Citibank N.A. (NYC))",178740916,0.57,1.0,0.0032060906892033
+40,POGR,"Петропавловск ПиЭлСи, акции иностранного эмитента","Petropavlovsk PLC, shares of a foreign issuer",3957270254,0.65,1.0,0.0028049279074654
+41,CBOM,"ПАО ""МОСКОВСКИЙ КРЕДИТНЫЙ БАНК"", ао","CREDIT BANK OF MOSCOW, Ordinary shares",33429709866,0.21,1.0,0.0024744968124161
+42,FEES,"ПАО ""ФСК ЕЭС"", ао","""FGC UES"", PJSC, Ordinary shares",1274665323063,0.18,1.0,0.0022937302463068
+43,LSRG,"ПАО ""Группа ЛСР"", ао","PJSC LSR Group, Ordinary shares",103030215,0.42,1.0,0.0017048511603033

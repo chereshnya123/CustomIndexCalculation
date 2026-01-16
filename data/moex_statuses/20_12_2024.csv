@@ -1,0 +1,50 @@
+№,Code,Security name (rus),Security name (eng),Number of issued shares,Free-float factor,Restricting coefficient,Weight (29.11.2024)
+1,LKOH,"ПАО ""ЛУКОЙЛ"", ао","PJSC ""LUKOIL"", Ordinary shares",692865762,0.55,0.3180602,0.15
+2,GAZP,"ПАО ""Газпром"", ао","PJSC ""GAZPROM"", Ordinary shares",23673512900,0.5,0.5,0.1314778
+3,SBER,"ПАО Сбербанк, ао","PJSC ""Sberbank"", Ordinary shares",21586948000,0.48,0.2869555,0.1256563
+4,TATN,"ПАО ""Татнефть"" им. В.Д. Шашина, ао","PJSC ""TATNEFT"", Ordinary shares",2178690700,0.32,0.8,0.0550294
+5,ROSN,"ПАО ""НК ""Роснефть"", ао","PJSC ""Rosneft"", Ordinary shares",10598177817,0.11,0.4,0.0401835
+6,GMKN,"ПАО ""ГМК ""Норильский никель"", ао","PJSC ""MMC ""NORILSK NICKEL"", Ordinary shares",15286339700,0.32,0.4,0.0396373
+7,NVTK,"ПАО ""НОВАТЭК"", ао","JSC ""NOVATEK"", Ordinary shares",3036306000,0.21,0.4,0.0382163
+8,YDEX,"МКПАО ""ЯНДЕКС"", ао","IPJSC YANDEX, Ordinary shares",379453795,0.15,1.0,0.0342123
+9,T,"МКПАО ""ТКС Холдинг"", ао","IPJSC TCS Holding, Ordinary shares",199305492,0.56,0.7,0.0337715
+10,PLZL,"ПАО ""Полюс"", ао","PJSC ""Polyus"", Ordinary shares",136069400,0.22,0.4,0.0305739
+11,SNGSP,"ПАО ""Сургутнефтегаз"", ап","PJSC ""Surgutneftegas"", Preferred shares",7701998235,0.73,0.5,0.0291996
+12,SNGS,"ПАО ""Сургутнефтегаз"", ао","PJSC ""Surgutneftegas"", Ordinary shares",35725994705,0.25,0.7,0.0269262
+13,SBERP,"ПАО Сбербанк, ап","PJSC ""Sberbank"", Preferred shares",1000000000,1.0,0.573911,0.0243437
+14,IRAO,"ПАО ""Интер РАО"", ао","PJSC ""Inter RAO"", Ordinary shares",104400000000,0.32,0.7,0.0160848
+15,CHMF,"ПАО ""Северсталь"", ао","PJSC ""Severstal"", Ordinary shares",837718660,0.23,0.4,0.0154713
+16,HEAD,"МКПАО ""Хэдхантер"", ао","IPJSC Headhunter, Ordinary shares",47184918,0.42,1.0,0.0148152
+17,MOEX,"ПАО Московская Биржа, ао","PJSC ""Moscow Exchange"", Ordinary shares",2276401458,0.64,0.3,0.0145498
+18,NLMK,"ПАО ""НЛМК"", ао","PJSC ""NLMK"", Ordinary shares",5993227240,0.21,0.5,0.0140488
+19,RUAL,"МКПАО ""Объединенная компания ""РУСАЛ"", ао","United Company RUSAL IPJSC, Ordinary shares",15193014862,0.18,0.7,0.0120434
+20,VTBR,"Банк ВТБ (ПАО), ао","VTB Bank (PJSC), Ordinary shares",5369933893,0.17,1.0,0.0114535
+21,MTSS,"ПАО ""МТС"", ао","PJSC ""MTS"", Ordinary shares",1998381575,0.41,0.4,0.0107805
+22,PIKK,"ПАО ""Группа Компаний ПИК"", ао","PJSC ""PIK Group"", Ordinary shares",660497344,0.21,1.0,0.0102894
+23,TATNP,"ПАО ""Татнефть"" им. В.Д. Шашина, ап","PJSC ""TATNEFT"", Preferred shares",147508500,1.0,0.7,0.0101524
+24,MGNT,"ПАО ""Магнит"", ао","PJSC ""Magnit"", Ordinary shares",101911355,0.37,0.3,0.0092497
+25,ALRS,"АК ""АЛРОСА"" (ПАО), ао","PJSC ""ALROSA"", Ordinary shares",7364965630,0.34,0.4,0.0090003
+26,MAGN,"ПАО ""ММК"", ао","PJSC ""MMK"", Ordinary shares",11174330000,0.2,0.6,0.0080552
+27,AFLT,"ПАО ""Аэрофлот"", ао","PJSC ""Aeroflot"", Ordinary shares",3975771215,0.25,0.8,0.0074651
+28,CBOM,"ПАО ""МОСКОВСКИЙ КРЕДИТНЫЙ БАНК"", ао","PJSC ""CREDIT BANK OF MOSCOW"", Ordinary shares",33429709866,0.22,0.7,0.0071051
+29,PHOR,"ПАО ""ФосАгро"", ао","PJSC ""PhosAgro"", Ordinary shares",129500000,0.26,0.2,0.0067602
+30,RTKM,"ПАО ""Ростелеком"", ао","PJSC ""Rostelecom"", Ordinary shares",3282997929,0.29,0.7,0.0065491
+31,POSI,"ПАО ""Группа Позитив"", ао","PJSC ""Positive Group"", Ordinary shares",66000000,0.23,1.0,0.0052334
+32,SVCB,"ПАО ""Совкомбанк, ао","PJSC ""Sovcombank"", Ordinary shares",20693945875,0.1,1.0,0.0048096
+33,AFKS,"ПАО АФК ""Система"", ао","Sistema PJSFC, Ordinary shares",9650000000,0.33,0.6,0.0043089
+34,BSPB,"ПАО ""Банк ""Санкт-Петербург"", ао","PJSC ""Bank ""Saint-Petersburg"", Ordinary shares",457544031,0.27,0.6,0.0042995
+35,TRNFP,"ПАО ""Транснефть"", ап","PJSC ""Transneft"", Preferred shares",155487500,0.37,0.4,0.0042688
+36,VKCO,"МКПАО ""ВК"", ао","IPJSC ""VK"", Ordinary shares",227874940,0.47,0.8,0.0042199
+37,FLOT,"ПАО ""Совкомфлот"", ао","PJSC ""Sovcomflot"", Ordinary shares",2374993901,0.16,0.7,0.0041454
+38,FEES,"ПАО ""ФСК - Россети"", ао","PJSC ""FGC Rosseti"", Ordinary shares",2113460101477,0.18,0.6,0.0029606
+39,ENPG,"МКПАО ""ЭН+ ГРУП"", ао","EN+ GROUP IPJSC, Ordinary shares",638848896,0.14,0.6,0.0028272
+40,MSNG,"ПАО ""Мосэнерго"", ао","PJSC ""MOSENERGO"", Ordinary shares",39749359700,0.2,0.9,0.0027509
+41,UGLD,"ПАО ""ЮГК"", ао","PJSC ""UGC"", Ordinary shares",222778849052,0.1,1.0,0.0026237
+42,ASTR,"ПАО ""Группа Астра"", ао","PJSC ""Astra Group"", Ordinary shares",210000000,0.15,1.0,0.0025763
+43,UPRO,"ПАО ""Юнипро"", ао","PJSC ""Unipro"", Ordinary shares",63048706145,0.16,0.8,0.0024341
+44,HYDR,"ПАО ""РусГидро"", ао","PJSC ""RusHydro"", Ordinary shares",444793377038,0.15,0.4,0.0023506
+45,SELG,"ПАО ""Селигдар"", ао","PJSC ""Seligdar"", Ordinary shares",1030000000,0.25,1.0,0.0017422
+46,LEAS,"ПАО ""ЛК ""Европлан"", ао","PJSC ""LC ""Europlan"", Ordinary shares",120000000,0.13,1.0,0.0017273
+47,MTLR,"ПАО ""Мечел"", ао","PJSC ""Mechel"", Ordinary shares",416270745,0.43,0.6,0.0016602
+48,MTLRP,"ПАО ""Мечел"", ап","PJSC ""Mechel"", Preferred shares",138756915,0.6,0.8,0.0010523
+49,SMLT,"ПАО ""ГК ""Самолет"", ао","PJSC ""Samolet Group"", Ordinary shares",61579358,0.09,0.9,0.0009073
